@@ -7,6 +7,7 @@ public class Stats : MonoBehaviour
     public int bladderCapacity;
     public int strenk;
     public int brain;
+    public int nigger;
 
     public Stats(int bladderCapacity, int strenk, int brain)
     {
